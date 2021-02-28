@@ -1,4 +1,4 @@
-# todo-vue
+# meteo-app-vue.js
 
 ## Project setup
 ```
